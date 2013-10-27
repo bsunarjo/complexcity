@@ -1,0 +1,19 @@
+data acquisition:
+- time schedule
+- paths
+- (audio)
+
+data processing:
+- python import
+  + time schedule
+  + paths (shapefile importer)
+
+data visualization:
+- map paths and times to blender objects
+
+
+data:
+https://github.com/swissnexSF/Urban-Data-Challenge
+
+description:
+http://urbanprototyping.org/prototype/challenges/urban-data-challenge-zurich-sf-geneva/#get-the_data

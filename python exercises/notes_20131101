@@ -1,0 +1,28 @@
+Blender
+
+ctrl-s: snap
+tab: edit mode
+s: scale
+g: translate
+e: extrude
+i: set keyframe
+shft-ctrl-z: constrain movement to x-y plane
+shft-d: duplicate object
+
+add subdivision surface modifier
+ctrl-r: loop cut and slide (mesh tools)
+mark sharp edges (object menu in edit mode)
+
+
+ctrl-h
+hook to new object
+
+
+link collection:
+
+haltestellen des öffentlichen verkehrs
+http://www.geolion.zh.ch/geodatensatz/show?nbid=883
+
+
+zürich open hacknights
+http://make.opendata.ch/wiki/event:2013-10

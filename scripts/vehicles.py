@@ -59,6 +59,9 @@
 
 # import libraries
 import csv  # provides csv reader object for parsing
+import bpy  # blender internals
+from shapely.geometry import *  # geometry library
+import blender_show as show
 
 
 # Data on bus/train/tram stops
